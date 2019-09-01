@@ -10,8 +10,8 @@ it's just **Timer Counter**
 # Use
 
 **Type** in **Chat:** ``/timer [YOURTIME]``  
-example : **/timer 5**  
-resualt :   
+example : **/timer 5**<br><br>
+resualt :<br><br>
 5  
 4  
 3  
