@@ -9,7 +9,7 @@ it's just **Timer Counter**
 
 # Use
 
-**Type** in **Chat:** ``/timer [YOURTIME]``  
+**Type** in **Chat:** ``/timer [YOURTIME]``<br>
 example : **/timer 5**<br><br>
 resualt :<br><br>
 5  
