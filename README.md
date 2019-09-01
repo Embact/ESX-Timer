@@ -9,6 +9,6 @@ it's just **Timer Counter**
 
 # Use
 
-``/timer [YOURTIME]``
+**Type** in **Chat:** ``/timer [YOURTIME]``
 
 
