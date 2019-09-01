@@ -9,6 +9,13 @@ it's just **Timer Counter**
 
 # Use
 
-**Type** in **Chat:** ``/timer [YOURTIME]``
+**Type** in **Chat:** ``/timer [YOURTIME]``  
+example : **/timer 5**
+resualt : 
+5  
+4  
+3  
+2  
+1  
 
 
