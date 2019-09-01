@@ -13,11 +13,5 @@ it's just **Timer Counter**
 
 **Type** in **Chat:** ``/timer [YOURTIME]``<hr>
 example : **/timer 5**<br>
-**resualt** :<br>
-5  
-4  
-3  
-2  
-1  
 
 
