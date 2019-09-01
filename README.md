@@ -7,10 +7,10 @@ it's just **Timer Counter**
 
 
 
-# How it work...
+# Use
 
 ``` 
-**Type** in chat **/timer [YOURTIME]** 
+***/timer [YOURTIME]***
 ```
 
 
