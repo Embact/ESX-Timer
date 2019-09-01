@@ -10,7 +10,7 @@ it's just **Timer Counter**
 # Use
 
 **Type** in **Chat:** ``/timer [YOURTIME]``<hr>
-example : **/timer 5**<br><br>
+example : **/timer 5**<br>
 **resualt** :<br>
 5  
 4  
