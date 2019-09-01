@@ -9,8 +9,6 @@ it's just **Timer Counter**
 
 # Use
 
-``` 
-***/timer [YOURTIME]***
-```
+``**/timer [YOURTIME]**``
 
 
