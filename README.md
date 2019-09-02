@@ -1,4 +1,4 @@
-# esx_timer
+# timer
 
 That's my first Project in ESX  
 it's just **Timer Counter**    
@@ -6,8 +6,8 @@ it's just **Timer Counter**
 # Install  
 1. Download the .zip.
 2. Extract the .zip or Open the .zip.
-3. Place ``esx_timer`` in your ESX Directory
-4. Add start ``esx_timer`` to your ``server.cfg``
+3. Place ``timer`` in your ESX Directory
+4. Add start ``timer`` to your ``server.cfg``
 
 # Use
 
