@@ -7,7 +7,7 @@ it's just **Timer Counter**
 1. Download the .zip.
 2. Extract the .zip or Open the .zip.
 3. Place ``timer`` in your resources
-4. Add **start* ``timer`` to your ``server.cfg``
+4. Add **start** ``timer`` to your ``server.cfg``
 
 # Use
 
